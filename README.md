@@ -1,5 +1,7 @@
 
-# eCommerce Observability in Practice
+# Datadog-ecommerce-workshop
+
+## eCommerce Observability in Practice
 
 This is a repo demonstrating applying observability principals to an eCommerce app.
 
